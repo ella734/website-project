@@ -8,7 +8,7 @@
 /* Body */
 body {
     font-family: Arial, sans-serif;
-    background-color: #0a0f2c; /* Dark Blue Background */
+    background-color: #0a0f2c; 
     color: white;
     text-align: center;
     padding: 20px;
@@ -18,11 +18,11 @@ body {
 nav {
     display: flex;
     justify-content: space-between;
-    background: #1c1f4a; /* Dark Purple */
+    background: #1c1f4a;
     padding: 15px 30px;
     align-items: center;
     margin-bottom: 20px;
-    border-bottom: 3px solid #7048e8; /* Purple Border */
+    border-bottom: 3px solid #7048e8; 
 }
 
 .logo {
@@ -49,11 +49,11 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #4a90e2; /* Light Blue Hover */
+    color: #4a90e2; /* 
 }
 
 .signup-btn {
-    background: #7048e8; /* Purple Button */
+    background: #7048e8; 
     padding: 8px 15px;
     color: white;
     border-radius: 5px;
@@ -62,13 +62,13 @@ nav ul li a:hover {
 }
 
 .signup-btn:hover {
-    background: #4a90e2; /* Light Blue Hover */
+    background: #4a90e2; 
 }
 
 /* Hero Section */
 .hero {
     padding: 60px 20px;
-    background: #13184d; /* Dark Blue */
+    background: #13184d; 
     margin-bottom: 30px;
 }
 
@@ -81,14 +81,14 @@ nav ul li a:hover {
 .hero p {
     font-size: 18px;
     margin-bottom: 20px;
-    color: #b0b3ff; /* Light Purple Text */
+    color: #b0b3ff; 
 }
 
 .btn {
     display: inline-block;
     margin-top: 15px;
     padding: 12px 25px;
-    background: #4a90e2; /* Light Blue */
+    background: #4a90e2; 
     color: white;
     text-decoration: none;
     font-weight: bold;
@@ -110,14 +110,14 @@ nav ul li a:hover {
 .crypto-table h2 {
     margin-bottom: 15px;
     font-size: 24px;
-    color: #4a90e2; /* Light Blue */
+    color: #4a90e2; 
 }
 
 table {
     width: 80%;
     margin: 0 auto;
     border-collapse: collapse;
-    background: #1c1f4a; /* Dark Purple */
+    background: #1c1f4a; 
     color: white;
     border-radius: 10px;
     overflow: hidden;
@@ -125,22 +125,22 @@ table {
 
 th, td {
     padding: 12px 20px;
-    border-bottom: 1px solid #4a90e2; /* Light Blue Borders */
+    border-bottom: 1px solid #4a90e2; 
     text-align: left;
 }
 
 th {
-    background: #232861; /* Darker Blue */
+    background: #232861; 
     font-weight: bold;
     color: white;
 }
 
 tr:hover {
-    background: #2d328f; /* Medium Blue Hover */
+    background: #2d328f; 
 }
 
 .positive {
-    color: #7ed957; /* Green for Positive Change */
+    color: #7ed957; 
 }
 
 .negative {
@@ -152,7 +152,7 @@ footer {
     background: #1c1f4a;
     padding: 20px;
     margin-top: 30px;
-    border-top: 3px solid #7048e8; /* Purple Border */
+    border-top: 3px solid #7048e8; 
     color: white;
 }
 
